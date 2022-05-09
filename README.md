@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sdestura
-- 👀 I’m interested in text mining & analytics and NLP
+- 👀 I’m interested in Natural Language Processing
 - 🌱 I’m currently learning Python for Data Analysis
 - 💞️ I’m looking to collaborate on anything to do with analyzing natural language/unstructured data
 - 📫 How to reach me: https://www.linkedin.com/in/samanthadestura/
