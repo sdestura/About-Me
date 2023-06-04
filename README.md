@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sdestura. I'm a UX Researcher. My strength lies in conducting rigorous qualitative research. Currently, I am working towards becoming a full-scope mixed-methods researcher by learning and incorporating quantitative methods and tools for data collection and analysis
-- 👀 I’m interested in Natural Language Processing (NLP)
-- 🌱 I’m currently learning Python for Data Analysis
-- 💞️ I’m looking to collaborate on anything to do with analyzing natural language/unstructured data
-- 📫 How to reach me: https://www.linkedin.com/in/samanthadestura/
+-👋 Hi! I'm Sam, a UX researcher passionate about uncovering and solving meaningful problems that improve people's lives. 🌎 I excel in qualitative research, such as 1-1 interviews, field research, and concept testing, to guide product development. I'm also expanding my skills to become a full-scope mixed-methods researcher.
+
+-🤓 I've been actively learning quantitative research methods and tools, including Excel, Python, SQL, and Analytics.
+-📚This repository contains my completed labs and assignments from various courses.
+-🐍Currently, I'm enrolled in the Statistics with Python Specialization.
+📫 Reach me at: https://www.linkedin.com/in/samanthadestura/"
 
 <!---
 sdestura/sdestura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
