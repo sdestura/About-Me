@@ -1,4 +1,4 @@
-👋 Hi 👋 My name is Sam. I am a UX researcher with a strong commitment to discovering, investigating, and resolving significant challenges that have a tangible impact on people's lives. 🌎 I excel in qualitative research, such as 1-1 interviews, field research, and concept testing, to guide product development. I'm also expanding my skills to become a full-scope mixed-methods researcher.
+👋 Hi! My name is Sam. I am a UX researcher with a strong commitment to discovering, investigating, and resolving significant challenges that have a tangible impact on people's lives. 🌎 I excel in qualitative research, such as 1-1 interviews, field research, and concept testing, to guide product development. I'm also expanding my skills to become a full-scope mixed-methods researcher.
 
 🤓 I've been actively learning quantitative research methods and tools, including Excel, Python, SQL, and Analytics.
 
